@@ -1,2 +1,4 @@
 TEST
 
+baz
+A more complex test!
