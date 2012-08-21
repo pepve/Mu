@@ -7,6 +7,7 @@ mu.root = path.join(__dirname, 'examples');
 
 [
   'tenthousand',
+  'section_function',
   'boolean',
   'carriage_return',
   'comments',
