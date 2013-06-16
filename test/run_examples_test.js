@@ -6,6 +6,7 @@ var assert = require('assert'),
 mu.root = path.join(__dirname, 'examples');
 
 [
+  'more_functions',
   'tenthousand',
   'boolean',
   'carriage_return',
