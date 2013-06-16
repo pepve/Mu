@@ -8,6 +8,7 @@ mu.root = path.join(__dirname, 'examples');
 [
   'large_array_w_arrays',
   'large_obj_w_arrays',
+  'more_functions',
   'tenthousand',
   'boolean',
   'carriage_return',

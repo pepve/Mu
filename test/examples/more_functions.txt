@@ -1,0 +1,12 @@
+some string
+object: string in an object
+
+some string by callback
+object: string in an object by callback
+
+SECTION CONTENTS
+
+array: object in array
+
+callback array: object by callback in array
+
